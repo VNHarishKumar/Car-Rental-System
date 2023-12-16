@@ -1,4 +1,3 @@
-# DAMG6210-KBASH
 ## Steps to execute:
 ### 1. Execute "User Creation" file as ADMIN to create required users.
 ### 2. Execute "K-Bash" file as USER_SR to create tables.
